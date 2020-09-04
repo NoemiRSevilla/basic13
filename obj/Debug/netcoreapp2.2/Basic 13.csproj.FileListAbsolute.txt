@@ -1,0 +1,11 @@
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/Basic 13/bin/Debug/netcoreapp2.2/Basic 13.deps.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/Basic 13/bin/Debug/netcoreapp2.2/Basic 13.runtimeconfig.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/Basic 13/bin/Debug/netcoreapp2.2/Basic 13.runtimeconfig.dev.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/Basic 13/bin/Debug/netcoreapp2.2/Basic 13.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/Basic 13/bin/Debug/netcoreapp2.2/Basic 13.pdb
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/Basic 13/obj/Debug/netcoreapp2.2/Basic 13.csprojAssemblyReference.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/Basic 13/obj/Debug/netcoreapp2.2/Basic 13.csproj.CoreCompileInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/Basic 13/obj/Debug/netcoreapp2.2/Basic 13.AssemblyInfoInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/Basic 13/obj/Debug/netcoreapp2.2/Basic 13.AssemblyInfo.cs
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/Basic 13/obj/Debug/netcoreapp2.2/Basic 13.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/Basic 13/obj/Debug/netcoreapp2.2/Basic 13.pdb
